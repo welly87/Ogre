@@ -1,0 +1,3 @@
+[submodule "AvroCodeGen"]
+	path = AvroCodeGen
+	url = https://github.com/welly87/AvroCodeGen
